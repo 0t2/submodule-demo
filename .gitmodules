@@ -1,0 +1,3 @@
+[submodule "ng-submodule"]
+	path = ng-submodule
+	url = git@github.com:0t2/ng-submodule.git
